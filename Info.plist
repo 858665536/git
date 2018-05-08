@@ -28,7 +28,7 @@
 		<true/>
 	</dict>
 	<key>NSBluetoothPeripheralUsageDescription</key>
-	<string>“递推宝”想要访问你的蓝牙，为了帮您连接您的蓝牙刷卡器</string>
+	<string>“递推宝”想要访问你的蓝牙，为了帮您连接您的蓝牙刷卡器小王</string>
 	<key>NSCameraUsageDescription</key>
 	<string>“递推宝”想访问你的相机，为了帮您使用扫描二维码或商品和互动等功能</string>
 	<key>NSContactsUsageDescription</key>
